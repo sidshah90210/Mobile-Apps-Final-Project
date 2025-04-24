@@ -17,8 +17,9 @@
 - This refresh token allows our app to get a new access token without requiring the user to log in again.
 
 Since we’re using [`react-native-app-auth`](https://github.com/FormidableLabs/react-native-app-auth), it will handle most of the OAuth flow, including token management.
-
+<br><br><br>
+__________________________________________________________________________
 ### Documentation
-- ['How to Get The Authorization Code with PKCE Flow'](https://developer.spotify.com/documentation/web-api/tutorials/code-pkce-flow#code-challenge)
-- ['How to Refresh Tokens'](https://developer.spotify.com/documentation/web-api/tutorials/refreshing-tokens)
-- ['How to Use The Access Tokens'](https://developer.spotify.com/documentation/web-api/concepts/access-token)
+- [How to Get The Authorization Code with PKCE Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-pkce-flow#code-challenge)
+- [How to Refresh Tokens](https://developer.spotify.com/documentation/web-api/tutorials/refreshing-tokens)
+- [How to Use The Access Tokens](https://developer.spotify.com/documentation/web-api/concepts/access-token)
